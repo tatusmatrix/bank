@@ -26,4 +26,3 @@ class SeriousBank(models.Model):
     floatSum = models.FloatField('Sum')
     charAim = models.CharField('PaymentAim', max_length=250)
     floatCost = models.FloatField('ServiceCost')
-

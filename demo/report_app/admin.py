@@ -6,3 +6,4 @@ from report_app.models import MyReport, MyReportNew, SeriousBank
 admin.site.register(MyReport)
 admin.site.register(MyReportNew)
 admin.site.register(SeriousBank)
+
